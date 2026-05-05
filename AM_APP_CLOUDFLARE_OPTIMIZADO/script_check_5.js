@@ -1,0 +1,1 @@
+window.addEventListener('load', () => { if (window.lucide) lucide.createIcons(); });
